@@ -328,7 +328,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/WordsToken.sol": "MyToken"
+			"contracts/WordsToken.sol": "WDSToken"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -375,11 +375,11 @@
 			]
 		},
 		"contracts/WordsToken.sol": {
-			"keccak256": "0x4c56ec920901d0daaca939ee20954103efe1174e62529f5e3f8615fc88af1341",
+			"keccak256": "0xefb0fb89c6851c2dba6b17d2763f23a1b593c5f0dbb2af461d83ef42692f6596",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://aceb7cb8125103943b972b69e0c7aeb3a1a73fd4b4e0453251956d3b9583e698",
-				"dweb:/ipfs/QmP79NTzUYryUJ2pQoYA6NWSHCvqWVkhgLcvrGgJNb2nrP"
+				"bzz-raw://ea71a7863458141c06f0f194533f7cf5881889478ccd2cda5f004ef9a117f6df",
+				"dweb:/ipfs/QmcxTBkWq4XY1YXjnfhiLfWjazCMCkzEzuZ96hCpPgERTo"
 			]
 		}
 	},
